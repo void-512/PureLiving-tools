@@ -1,13 +1,3 @@
-'''
-    This program updates desired columns in the Fapiao table.
-
-    For weekly task only, not compatible with other files.
-
-    Preprocess required: 
-        Make sure the table you use always starts at A1, with title row included, 
-        elements that are not belonged to the dataset should be removed.
-'''
-
 import sys
 import pandas as pd
 import configparser
